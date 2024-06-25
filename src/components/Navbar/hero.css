@@ -1,0 +1,31 @@
+/* .hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;  
+    background: linear-gradient(180deg, hsla(237, 98%, 48%, 0) 68%, hsl(242, 76%, 39%) 78%);
+} */
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 500px;
+    /* background: linear-gradient(hsla(237, 98%, 48%, 0),  rgb(11,27,64) ); */
+    background: #0B1B40;
+}
+
+
+#header-underline::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 700px;
+    height: 10px;
+    margin-left: 2rem;
+    background: orange;
+    display: block;
+}
