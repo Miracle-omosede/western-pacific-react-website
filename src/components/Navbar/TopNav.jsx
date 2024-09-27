@@ -5,7 +5,7 @@ import {BsTelephoneForwardFill } from 'react-icons/bs'
 import TextTransition, { presets } from 'react-text-transition';
 
 const TopNav = () => {
-const TEXTS = ['(+234)-8086-688-557', '(+234)-815-236-3717', '(+234)-816-871-4744', '(+234)-7011-263-564'];
+const TEXTS = ['(+234)-815-236-3717', '(+234)-816-871-4744', '(+234)-8152-363-717'];
 
   const [index, setIndex] = React.useState(0);
 
