@@ -81,8 +81,6 @@ function Footer() {
       <div className="uppercase">
         <span className="footer-title uppercase text-[#2cbcff]">reach out</span>
         <a className="link link-hover">PH: 234-815-236-3717</a>
-        <a className="link link-hover">PH: 234-8086-688-557</a>
-        <a className="link link-hover">PH: 234-7011-263-564</a>
         <a className="link link-hover">PH: 234-816-871-4744</a>
         <a href="mailto:info@westernpacificsolutionslimited.com" className="link lowercase text-blue-500 link-hover">
         info@westernpacificsolutionslimited.com
